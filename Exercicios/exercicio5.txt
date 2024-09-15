@@ -1,0 +1,4 @@
+5 - 
+Eu ligaria uma lampada (lampada A) e deixaria ela ligada por alguns minutos, quando desse um tempo eu iria desligar ela e ligar uma outra lampada (lampada B),e deixaria ela ligada, 
+então sairia da sala e iria nas outras, a lampada que estivesse desligada, porem quente, seria a lampada (A), a lampada que estivesse ligada seria a lampada (B) 
+e a sala que estivesse com a lampada desligada e fria seria a lampada restante (lampada C)
